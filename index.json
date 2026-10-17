@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "segment-anything",
+  "versions": [
+    {
+      "commit": "dca509fe793f601edb92606367a655c15ac00fdf",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:11:51.840055+00:00"
+    }
+  ]
+}
