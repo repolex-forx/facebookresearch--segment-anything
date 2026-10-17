@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/facebookresearch/segment-anything/commit/dca509fe793f601edb92606367a655c15ac00fdf",
       "git:hexsha": "dca509fe793f601edb92606367a655c15ac00fdf",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T08:11:51.776171+00:00"
     }
   ]
 }
